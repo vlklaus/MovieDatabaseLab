@@ -10,15 +10,18 @@ namespace _051324_Movie_Database_Lab
     {
         // properties
         public string Title { get; set; }
-        public string Category { get; set; }
-        public static object TryParse { get; private set; }
+        public string Category { get; set; }        
 
+        public string RunTime { get; set; }
+        public string YearRelease { get; set; }
 
         // constructor
-        public Movie(string _title, string _category)
+        public Movie(string _title, string _category, string _runTime, string _yearRelease)
         {
             Title = _title;
             Category = _category;
+            RunTime = _runTime;
+            YearRelease = _yearRelease;
         }
 
 

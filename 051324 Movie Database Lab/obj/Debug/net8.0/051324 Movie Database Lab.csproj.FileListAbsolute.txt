@@ -12,3 +12,4 @@ C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database L
 C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\051324 Movie Database Lab.pdb
 C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\051324 Movie Database Lab.genruntimeconfig.cache
 C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\ref\051324 Movie Database Lab.dll
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\051324 Movie Database Lab.sourcelink.json
