@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victoria\\source\\repos\\051324 Movie Database Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6573954D-0797-4221-A931-35BCEECD32F0}|051324 Movie Database Lab\\051324 Movie Database Lab.csproj|c:\\users\\victoria\\source\\repos\\051324 movie database lab\\051324 movie database lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6573954D-0797-4221-A931-35BCEECD32F0}|051324 Movie Database Lab\\051324 Movie Database Lab.csproj|solutionrelative:051324 movie database lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6573954D-0797-4221-A931-35BCEECD32F0}|051324 Movie Database Lab\\051324 Movie Database Lab.csproj|c:\\users\\victoria\\source\\repos\\051324 movie database lab\\051324 movie database lab\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6573954D-0797-4221-A931-35BCEECD32F0}|051324 Movie Database Lab\\051324 Movie Database Lab.csproj|solutionrelative:051324 movie database lab\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Victoria\\source\\repos\\051324 Movie Database Lab\\051324 Movie Database Lab\\Movie.cs",
+              "RelativeDocumentMoniker": "051324 Movie Database Lab\\Movie.cs",
+              "ToolTip": "C:\\Users\\Victoria\\source\\repos\\051324 Movie Database Lab\\051324 Movie Database Lab\\Movie.cs",
+              "RelativeToolTip": "051324 Movie Database Lab\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:09:26.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victoria\\source\\repos\\051324 Movie Database Lab\\051324 Movie Database Lab\\Program.cs",
+              "RelativeDocumentMoniker": "051324 Movie Database Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\Victoria\\source\\repos\\051324 Movie Database Lab\\051324 Movie Database Lab\\Program.cs",
+              "RelativeToolTip": "051324 Movie Database Lab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:08:14.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

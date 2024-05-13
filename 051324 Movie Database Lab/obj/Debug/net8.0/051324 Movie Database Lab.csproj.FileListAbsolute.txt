@@ -1,0 +1,14 @@
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\bin\Debug\net8.0\051324 Movie Database Lab.exe
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\bin\Debug\net8.0\051324 Movie Database Lab.deps.json
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\bin\Debug\net8.0\051324 Movie Database Lab.runtimeconfig.json
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\bin\Debug\net8.0\051324 Movie Database Lab.dll
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\bin\Debug\net8.0\051324 Movie Database Lab.pdb
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\051324 Movie Database Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\051324 Movie Database Lab.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\051324 Movie Database Lab.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\051324 Movie Database Lab.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\051324 Movie Database Lab.dll
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\refint\051324 Movie Database Lab.dll
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\051324 Movie Database Lab.pdb
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\051324 Movie Database Lab.genruntimeconfig.cache
+C:\Users\Victoria\source\repos\051324 Movie Database Lab\051324 Movie Database Lab\obj\Debug\net8.0\ref\051324 Movie Database Lab.dll
