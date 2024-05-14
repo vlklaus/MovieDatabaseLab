@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("051324 Movie Database Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+842426c6be7522376608f7695d5112fd3e8f77f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8230819aed47c2eb2cb5b88f105f0c4b518fd431")]
 [assembly: System.Reflection.AssemblyProductAttribute("051324 Movie Database Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("051324 Movie Database Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

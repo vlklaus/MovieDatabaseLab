@@ -7,7 +7,7 @@ List<Movie> movies = new List<Movie>()
     new Movie("Talk to Me", "horror", "1h 34m", "2023"),
     new Movie("Barbarian", "horror", "1h 42m", "2022"),
     new Movie("How to Lose a Guy in 10 Days", "romance", "1h 50m", "2003"),
-    new Movie("Back to the Future", "scifi", "1h 50m", "2003"),
+    new Movie("Back to the Future", "scifi", "1h 50m", "1985"),
     new Movie("Jujutsu Kaisen 0", "action", "1h 45m", "2022"),
     new Movie("Colorful", "fantasy", "2h 7m", "2010"),
     new Movie("Fight Club", "thriller", "2h 19m", "1999"),
@@ -19,10 +19,10 @@ List<Movie> movies = new List<Movie>()
 Console.WriteLine("Welcome to the Movie List Application!");
 Console.WriteLine($"There are {movies.Count} movies in this list.");
 
-for (int i = 0; i < movies.Count; i++)
-{
-    Console.WriteLine(movies[i].Category);
-}
+//for (int i = 0; i < movies.Count; i++)
+//{
+//    Console.WriteLine(movies[i].Category);
+//}
 
 
 bool runAgain = true;
@@ -36,24 +36,18 @@ while (runAgain)
     {
         Console.WriteLine("We don't have any movies with that category. Try again please!");
         continue;
-    }
+    }          
            
-    foreach (Movie movie in movies) // finding the correct category
+    List<Movie> movieFiltered = movies.Where(m => m.Category == category).OrderBy(x=> x.Title).ToList(); // finding the correct category
+    
+    foreach (Movie m in movieFiltered)
     {
-        if (movie.Category == category)
-        {
-            List<Movie> movieFiltered = movies.Where(m => m.Category == category).OrderBy(x=> x.Title).ToList();
-            foreach (Movie m in movieFiltered)
-            {
 
-                Console.WriteLine();
-                Console.WriteLine(m.Title);
-                Console.WriteLine($"Year Released: {m.YearRelease}");
-                Console.WriteLine($"Runtime: { m.RunTime}");
-            }
-            break;
-        }
-    }
+    Console.WriteLine();
+    Console.WriteLine(m.Title);
+    Console.WriteLine($"Year Released: {m.YearRelease}");
+    Console.WriteLine($"Runtime: { m.RunTime}");
+    }            
 
     Console.WriteLine();
     runAgain = Movie.GetContinue(); // loop program again
